@@ -13,4 +13,5 @@ gantt
   @antwika/web-api          : milestone, 2022-07-08, 0d
   @antwika/auth-api         : milestone, 2022-07-08, 0d
   @antwika/standard-version : milestone, 2022-07-09, 0d
+  @antwika/lock             : milestone, 2022-07-10, 0d
 ```
